@@ -1,7 +1,7 @@
 # Mental Health Within The Office
 Creators: Gabriella Nina, Angelina Chirichella and Sam Alcosser
 
-The virtual nature of individual’s 
+The virtual nature of individual’s  
 jobs during the Covid-19 Pandemic has 
 deteriorated employee mental health, 
 calling for better employer communication. 
